@@ -61,7 +61,6 @@ The report is divided into 5 user stories, each with its own Power BI report pag
 
 ### US-5: Feedback Analysis
 - Word cloud of most common feedback terms
-- Focused view on positive sentiment
 - Visualizes themes and keywords in customer feedback
 ---
 
